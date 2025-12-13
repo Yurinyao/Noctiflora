@@ -1,0 +1,32 @@
+# =======================
+#
+# Noctiflora - btop theme
+#
+# =======================
+
+theme[main_bg]="#2f242c"
+theme[main_fg]="#eeb4b3"
+
+theme[title]="#c179b9"
+theme[hi_fg]="#b455dd"
+
+theme[cpu]="#b455dd"
+theme[mem]="#c179b9"
+theme[swap]="#502274"
+theme[proc]="#eeb4b3"
+theme[net]="#b455dd"
+
+theme[graph_text]="#eeb4b3"
+theme[inactive_fg]="#502274"
+
+theme[div_line]="#502274"
+theme[box]="#502274"
+theme[border]="#502274"
+
+theme[selected_bg]="#502274"
+theme[selected_fg]="#eeb4b3"
+
+theme[temp]="#c179b9"
+theme[warn]="#b455dd"
+theme[crit]="#eeb4b3"
+
