@@ -1,0 +1,38 @@
+* {
+	border: none;
+	border-radius: 10px;
+	font-family: "Noto Sans", "Noto Color Emoji";
+	font-size: 12px;
+}
+
+window#waybar {
+	background: rgba(47, 36, 44, 0.85);
+	color: #eeb4b3;
+}
+
+#workspaces button {
+	padding: 4px 8px;
+	margin: 4px;
+	color: #c179b9;
+	background: transparent;
+}
+
+#workspaces button.active {
+	color: #2f242c;
+	background: #b455dd;
+}
+
+#workspaces button:hover {
+	background: #502274;
+	color: #eeb4b3;
+}
+
+#window {
+	color: #eeb4b3;
+	padding: 0 12px;
+}
+
+#clock {
+	color: #c179b9;
+	padding: 0 12px;
+}

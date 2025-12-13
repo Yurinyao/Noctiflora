@@ -1,0 +1,24 @@
+{
+	"layer": "top",
+	"position": "top",
+	"height": 32,
+
+	"modules-left": [
+		"hyprland/window"
+	],
+
+	"modules-right": [
+		"clock"
+	],
+
+	"hyprland/workspaces": {
+		"format": "{icon}",
+		"on-click": "activate",
+		"all-outputs": true
+	},
+
+	"clock": {
+		"format": "{:%H:%M}",
+		"tooltip-format": "{:%A, %d %B %Y}"
+	}
+}
