@@ -5,28 +5,56 @@
 # =======================
 
 theme[main_bg]="#2f242c"
+
 theme[main_fg]="#eeb4b3"
 
-theme[title]="#c179b9"
-theme[hi_fg]="#b455dd"
+theme[title]="#eeb4b3"
 
-theme[cpu]="#b455dd"
-theme[mem]="#c179b9"
-theme[swap]="#502274"
-theme[proc]="#eeb4b3"
-theme[net]="#b455dd"
-
-theme[graph_text]="#eeb4b3"
-theme[inactive_fg]="#502274"
-
-theme[div_line]="#502274"
-theme[box]="#502274"
-theme[border]="#502274"
+theme[hi_fg]="#c179b9"
 
 theme[selected_bg]="#502274"
+
 theme[selected_fg]="#eeb4b3"
 
-theme[temp]="#c179b9"
-theme[warn]="#b455dd"
-theme[crit]="#eeb4b3"
+theme[inactive_fg]="#502274"
 
+theme[proc_misc]="#c179b9"
+
+theme[cpu_box]="#502274"
+theme[mem_box]="#502274"
+theme[net_box]="#502274"
+theme[proc_box]="#502274"
+
+theme[div_line]="#502274"
+
+theme[temp_start]="#c179b9"
+theme[temp_mid]="#b455dd"
+theme[temp_end]="#eeb4b3"
+
+theme[cpu_start]="#c179b9"
+theme[cpu_mid]="#b455dd"
+theme[cpu_end]="#eeb4b3"
+
+theme[free_start]="#502274"
+theme[free_mid]="#c179b9"
+theme[free_end]="#b455dd"
+
+theme[cached_start]="#502274"
+theme[cached_mid]="#c179b9"
+theme[cached_end]="#b455dd"
+
+theme[available_start]="#502274"
+theme[available_mid]="#c179b9"
+theme[available_end]="#b455dd"
+
+theme[used_start]="#c179b9"
+theme[used_mid]="#b455dd"
+theme[used_end]="#eeb4b3"
+
+theme[download_start]="#c179b9"
+theme[download_mid]="#b455dd"
+theme[download_end]="#eeb4b3"
+
+theme[upload_start]="#c179b9"
+theme[upload_mid]="#b455dd"
+theme[upload_end]="#eeb4b3"
